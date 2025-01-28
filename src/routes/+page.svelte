@@ -1,12 +1,14 @@
+<div class="fundo">
 <p> Seja Bem Vindo(a)!!</p>
+</div>
 
 <form>
-    <div class="fundo">
+    
     <div class="mb-3">
       <label for="exampleInputEmail1" class="form-label">Email address</label>
       <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
       <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
-    </div>
+    
 </div>
     <div class="mb-3">
       <label for="exampleInputPassword1" class="form-label">Password</label>
@@ -22,7 +24,7 @@
 
   <style>
     .fundo {
-        background-color: aqua;
+        background-color: rgb(245, 168, 232);
         padding: 0;
         padding-left: 0;
         height: 100vh;
