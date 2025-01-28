@@ -26,10 +26,11 @@
     .fundo {
         background-color: rgb(245, 168, 232);
         padding: 0;
-        padding-left: 0;
         height: 100vh;
         display: flex;
         flex-direction: column;
+        margin: 0;
+
 
 
     }
