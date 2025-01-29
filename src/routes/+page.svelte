@@ -2,6 +2,8 @@
 <p> Seja Bem Vindo(a)!!</p>
 </div>
 
+<img src="Like.png" class="img-fluid" alt="...">
+
 <form>
     
     <div class="mb-3">
